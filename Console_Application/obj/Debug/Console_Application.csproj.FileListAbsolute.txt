@@ -1,0 +1,8 @@
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\bin\Debug\Console_Application.exe.config
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\bin\Debug\Console_Application.exe
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\bin\Debug\Console_Application.pdb
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\obj\Debug\Console_Application.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\obj\Debug\Console_Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\obj\Debug\Console_Application.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\obj\Debug\Console_Application.exe
+C:\Users\mihai\Desktop\dotNET_project\Console_Application\obj\Debug\Console_Application.pdb
